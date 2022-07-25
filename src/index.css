@@ -1,0 +1,28 @@
+/* O nome do arquivo CSS deve ser index.css, tal qual o arquivo js deve ser index.js
+
+Importe esse arquivo no index.js*/
+
+body {
+  background-color: #222;
+  color: white;
+  font-family: Oswald;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+label {
+  font-weight: 200;
+}
+
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 3rem;
+  text-shadow: 0 0 50px #61dafb;
+}

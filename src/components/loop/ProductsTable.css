@@ -1,0 +1,25 @@
+#table {
+  display: inline-table;
+}
+
+th,
+td {
+  padding: 0 10px;
+}
+
+th {
+  font-weight: 500;
+}
+
+td {
+  font-weight: 300;
+}
+
+tr:nth-child(even) {
+  background-color: #e1e0e0;
+}
+
+tr:hover {
+  background-color: #4190a5;
+  color: white;
+}

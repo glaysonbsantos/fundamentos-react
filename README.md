@@ -2,4 +2,4 @@
 
 Documentação da Introdução e do Módulo 1 do curso. Os cards listam os assuntos estudados, com exemplos e implementações.
 
-![](./fundamentos-react/public/overview.png)
+![](./public/overview.png)

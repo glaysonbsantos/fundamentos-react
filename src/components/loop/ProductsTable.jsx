@@ -13,7 +13,7 @@ export default (props) => {
     );
   });
   return (
-    <div id="table">
+    <table id="table">
       <thead>
         <tr>
           <th>Código</th>
@@ -22,6 +22,6 @@ export default (props) => {
         </tr>
       </thead>
       <tbody>{productsList}</tbody>
-    </div>
+    </table>
   );
 };
